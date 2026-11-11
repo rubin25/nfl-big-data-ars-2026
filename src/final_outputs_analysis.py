@@ -446,7 +446,7 @@ The "defensive gravity" hypothesis is not supported. **Coverage scheme (man vs. 
 
 ---
 
-*Analysis by: Srikar Konakanchi*  
+*Analysis by: Aryaman Purav, Srikar Konakanchi, Rakshit Dongre*  
 *GitHub: https://github.com/rubin25/nfl-big-data-ars-2026*
 """
     

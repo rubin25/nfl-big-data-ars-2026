@@ -1,7 +1,7 @@
 # The Hidden Space: Does Tyreek Hill's Defensive Attention Help Travis Kelce Get Open?
 
 **NFL Big Data Bowl 2026 Project**  
-**Team:** Srikar Konakanchi  
+**Team:** Aryaman Purav, Srikar Konakanchi, Rakshit Dongre  
 **Dataset:** 2021 Kansas City Chiefs (Weeks 1–8, 203 passing plays)
 
 ---
